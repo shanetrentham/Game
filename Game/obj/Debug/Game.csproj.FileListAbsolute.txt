@@ -1,0 +1,7 @@
+c:/users/samadidanas/documents/visual studio 2015/Projects/Game/Game/bin/Debug/Game.exe.config
+/Users/shane/Downloads/Game/Game/obj/Debug/Game.csprojAssemblyReference.cache
+/Users/shane/Downloads/Game/Game/bin/Debug/Game.exe.config
+/Users/shane/Downloads/Game/Game/bin/Debug/Game.exe
+/Users/shane/Downloads/Game/Game/bin/Debug/Game.pdb
+/Users/shane/Downloads/Game/Game/obj/Debug/Game.exe
+/Users/shane/Downloads/Game/Game/obj/Debug/Game.pdb

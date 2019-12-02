@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CE2F903E-F2A3-49C3-9D1C-16843B4EF5D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game/Deck.cs">
+    <Files>
+      <File FileName="Game/Card.cs" Line="28" Column="10" />
+      <File FileName="Game/CardTwo.cs" Line="14" Column="9" />
+      <File FileName="Game/CardThree.cs" Line="15" Column="10" />
+      <File FileName="Game/CardFour.cs" Line="15" Column="10" />
+      <File FileName="Game/CardFive.cs" Line="21" Column="10" />
+      <File FileName="Game/CardSix.cs" Line="20" Column="10" />
+      <File FileName="Game/CardSeven.cs" Line="20" Column="10" />
+      <File FileName="Game/CardEight.cs" Line="20" Column="10" />
+      <File FileName="Game/CardNine.cs" Line="20" Column="10" />
+      <File FileName="Game/CardTen.cs" Line="20" Column="10" />
+      <File FileName="Game/CardJack.cs" Line="20" Column="10" />
+      <File FileName="Game/CardQueen.cs" Line="20" Column="10" />
+      <File FileName="Game/CardKing.cs" Line="20" Column="10" />
+      <File FileName="Game/CardAce.cs" Line="20" Column="10" />
+      <File FileName="Game/Properties/Deck.cs" Line="35" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game" expanded="True">
+            <Node name="Game" expanded="True">
+              <Node name="Card.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

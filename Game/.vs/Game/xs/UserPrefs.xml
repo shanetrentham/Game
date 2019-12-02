@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{CE2F903E-F2A3-49C3-9D1C-16843B4EF5D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Deck.cs" Line="83" Column="30" />
+      <File FileName="Program.cs" Line="23" Column="39" />
+      <File FileName="Hand.cs" />
+      <File FileName="Card.cs" />
+      <File FileName="HumanPlayer.cs" />
+      <File FileName="ComputerPlayer.cs" />
+      <File FileName="Game.cs" />
+      <File FileName="IGameCondition.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
